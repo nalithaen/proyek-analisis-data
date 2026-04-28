@@ -32,9 +32,5 @@ Masuk ke direktori utama proyek dan jalankan perintah berikut:
 streamlit run dashboard/dashboard.py
 ```
 
-### Link Dashboard (Streamlit Cloud)
-Aplikasi ini dapat diakses secara online melalui:
-[Link Dashboard Anda di Sini]
-
 ## Penulis
 Nalitha Eka Naswadyna
